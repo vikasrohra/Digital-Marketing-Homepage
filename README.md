@@ -6,7 +6,7 @@ Hi, I'm `Vikas Rohra`, a web developer living in Mumbai, India.
 <br />
 
 ## About this project
- - This project is basically a landing page for law firm developed with HTML and CSS.
+ - This project is basically a landing page for digital marketing developed with HTML and CSS.
  - It took me around `2 to 2:30 hrs` to complete this project.
 
 <br />
