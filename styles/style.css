@@ -44,6 +44,7 @@ a:active {
 .button-group .nav-button {
   position: relative;
   right: 0;
+  cursor: pointer;
 }
 
 .banner-container {
@@ -88,4 +89,5 @@ a:active {
 .btn {
   padding: 15px 30px;
   margin-top: 35px;
+  cursor: pointer;
 }
